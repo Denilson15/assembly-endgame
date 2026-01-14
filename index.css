@@ -11,6 +11,10 @@ body {
     height: 100vh;
 }
 
+button{
+    color: #262626
+}
+
 main {
     display: flex;
     flex-direction: column;
