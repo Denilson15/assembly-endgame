@@ -2,7 +2,7 @@
 
 A fun, interactive word-guessing game built with React. The mission: Guess the word within 8 attempts to keep the modern programming world safe from being overtaken by Assembly!
 
-![Assembly Endgame Screenshot]([Optional: Add a link to your screenshot here])
+![Assembly Endgame Gameplay](https://github.com/user-attachments/assets/436194e6-cbb5-4510-8109-595e69e98b80)
 
 ## 🎮 How to Play
 - A random word is generated at the start of each game.
